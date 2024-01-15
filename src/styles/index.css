@@ -1,4 +1,17 @@
+.counterBody {
+    text-align: center;
+    background: black;
+}
 
+.counterBody div {
+    display:inline-block;
+    font-size: 70px;
+    line-height: 70px;
+    background: #101010;
+    color: white;
+    padding: 10px;
+    margin: 3px;
+}
 /* 
 
     You can write your own styles here...
